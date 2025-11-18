@@ -49,7 +49,7 @@ const luiz = {
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luizsvdev&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide_border=true&bg_color=0d1117" />
   
-  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsvdev&theme=shades-of-purple&hide_border=true&background=0d1117" />
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=luizsvdev&theme=shades-of-purple" />
 </div>
 
 <div align="center">
