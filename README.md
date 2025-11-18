@@ -43,7 +43,7 @@ const luiz = {
 ## 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luizsvdev&theme=shades-of-purple&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luizsvdev&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" />
   
   <br/><br/>
 
