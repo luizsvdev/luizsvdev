@@ -1,60 +1,71 @@
-# Eu sou o Luiz!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5F50E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Luiz!;Fullstack+Developer;Manjaro+User;Leveling+Up+Everyday" alt="Typing SVG" />
+  </a>
+</div>
 
-## Sobre Mim
-Eu sou um desenvolvedor entusiasmado, gosto muito de criar códigos consistentes e vê-los funcionando. 
-Sempre tento sair da minha zona de conforto, assim consigo obter novos aprendizados, seja de uma linguagem ou tecnologia nova ou sobre alguma que já conheço. 
-Prezo pelo código limpo sempre que possível e pelas boas práticas, bem como padronização em projetos.
+<div align="center">
+  <a href="https://www.linkedin.com/in/luizsilvajr/">
+    <img src="https://img.shields.io/badge/LinkedIn-5f50e6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:luizsv.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-5f50e6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/554691177172">
+    <img src="https://img.shields.io/badge/WhatsApp-5f50e6?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
 
-## Tecnologias e Ferramentas
-Aqui estão algumas das tecnologias e ferramentas com as quais trabalho frequentemente:
+<br/>
 
-- **Linguagens de Programação:** TypeScript/JavaScript, Java e C#
-- **Frameworks:** [Angular](https://angular.dev/), [Express](https://expressjs.com/), [Spring](https://spring.io/), [NestJS](https://nestjs.com/)
-- **Banco de Dados:** PostgreSQL, Firebird, MySQL
-- **Outros:** Node.js, Git, Redmine, Space
+## 👾 Player Profile
 
-## Experiência Profissional
+```typescript
+const luiz = {
+    role: "Fullstack Developer",
+    code: ["Clean", "Consistent", "Modern"],
+    tools: ["Manjaro", "IntelliJ", "Zed"],
+    challenge: "Stepping out of the comfort zone",
+    currentFocus: "Learning new technologies & Architecture"
+};
+```
 
-* ### Hábil Software - mar/2022 à dez/2024
-   Trabalhei como desenvolvedor fullstack na [Hábil Software](https://www.habil.com.br) by [Limber](https://limbersoftware.com.br), onde contribuo para diversos projetos internos e privados hospedados no GitLab. Minhas responsabilidades incluem:
-   
-   - Desenvolvimento de aplicações utilizando Angular, Spring e Express
-   - Implementação de novas funcionalidades e desenvolvimento de novos projetos
-   - Correção de problemas e bugs em aplicações existentes
-   - Testes de qualidade
-   - Participação em revisões de código e mentoria de novos desenvolvedores
-   - Demais tarefas necessárias para garantir o sucesso dos projetos
- 
-* ### Viasoft - dez/2024 à atualmente
-   Atualmente, trabalho como desenvolvedor fullstack na [Viasoft](https://viasoft.com.br), contribuindo para um projeto novo. Minhas responsabilidades até o momento:
+## 🛠️ Arsenal (Tech Stack)
 
-   - Desenvolvimento de aplicações utilizando Angular e Spring
-   - Implementação de novas funcionalidades
-   - Correção de bugs
-   - Revisões de código
-   - Deploy de aplicações em clientes
+<div align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,quarkus,maven,gradle,ts,js,nodejs,nestjs,express,go,react,vue,angular,nextjs,nuxtjs,pnpm,yarn,docker,kubernetes,jenkins,vercel,aws,digitalocean,oracle,postgres,mysql,redis,mongodb,manjaro,ubuntu,arch,git,idea,zed&perline=12" />
+  </a>
+</div>
 
-## Projetos:
+---
 
-1. **[WebBicho](https://srv.webbicho.com.br/swagger)**
-    - Atualmente, este é meu único projeto pessoal, ainda em fase de desenvolvimento. Este projeto é uma rede social com objetivo de centralizar a doação e adoção de animais e solucionar a falta de centralização deste processo.
-    - **Tecnologias:** Angular, NestJS, PostgreSQL, GitHub
+## 🏆 Achievements & Stats
 
-2. **[Hábil](https://www.habil.com.br)**
-   - Participei de forma constante no desenvolvimento deste projeto, com foco em gestão financeira para empresas
-   - **Tecnologias:** Angular, Spring, PostgreSQL, GitLab
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luizsvdev&theme=shades-of-purple&no-frame=true&column=7&margin-w=15&margin-h=15" />
+  
+  <br/><br/>
 
-3. **[Limber Chef](https://limberchef.com.br)**
-   - Participei deste projeto desde o início, é um sistema para restaurantes com foco em gerenciamento de pedidos, mesas e comandas
-   - **Tecnologias:** Angular, Express, PostgreSQL, GitLab
-   
-## Como me Contatar
-Você pode me encontrar nas seguintes plataformas:
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luizsvdev&show_icons=true&theme=shades-of-purple&include_all_commits=true&hide_border=true&bg_color=0d1117" />
+  
+  <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=luizsvdev&theme=shades-of-purple&hide_border=true&background=0d1117" />
+</div>
 
-- LinkedIn: [Luiz Silva](https://www.linkedin.com/in/luizsilvajr/)
-- Email: [luizsv.dev@gmail.com](mailto:luizsv.dev@gmail.com)
-- WhatsApp: [+55 (46) 99117-7172](https://wa.me/554691177172)
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsvdev&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117&hide=css" />
+</div>
 
-## Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsvdev&layout=compact&theme=radical&hide=css)
+<!-- ---
 
+## 🕹️ Contribution Game
+
+<div align="center">
+  <img src="https://github.com/luizsvdev/luizsvdev/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=luizsvdev&color=5f50e6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div> -->
