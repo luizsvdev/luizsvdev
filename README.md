@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5F50E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Luiz!;Fullstack+Developer;Manjaro+User;Leveling+Up+Everyday" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=5F50E6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Luiz!;Fullstack+Developer;Arch+User;Leveling+Up+Everyday" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 const luiz = {
     role: "Fullstack Developer",
     code: ["Clean", "Consistent", "Modern"],
-    tools: ["Manjaro", "IntelliJ", "Zed"],
+    tools: ["Cachy OS", "IntelliJ", "Zed"],
     challenge: "Stepping out of the comfort zone",
     currentFocus: "Learning new technologies & Architecture"
 };
@@ -34,7 +34,7 @@ const luiz = {
 
 <div align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,quarkus,maven,gradle,ts,js,nodejs,nestjs,express,go,react,vue,angular,nextjs,nuxtjs,pnpm,yarn,docker,kubernetes,jenkins,vercel,aws,digitalocean,oracle,postgres,mysql,redis,mongodb,manjaro,ubuntu,arch,git,idea,zed&perline=12" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,spring,quarkus,maven,gradle,ts,js,nodejs,nestjs,express,go,react,vue,angular,nextjs,nuxtjs,pnpm,yarn,docker,kubernetes,jenkins,vercel,aws,digitalocean,oracle,postgres,mysql,redis,mongodb,cachyos,ubuntu,arch,git,idea,zed&perline=12" />
   </a>
 </div>
 
@@ -49,17 +49,3 @@ const luiz = {
   
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizsvdev&layout=compact&theme=shades-of-purple&hide_border=true&bg_color=0d1117&hide=css" />
 </div>
-
-<!-- ---
-
-## 🕹️ Contribution Game
-
-<div align="center">
-  <img src="https://github.com/luizsvdev/luizsvdev/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=luizsvdev&color=5f50e6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div> -->
